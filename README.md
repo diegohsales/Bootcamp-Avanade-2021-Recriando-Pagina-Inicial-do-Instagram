@@ -1,1 +1,2 @@
 # Bootcamp-Avanade-2021-Recriando-Pagina-Inicial-do-Instagram
+## Nesse projeto irei reconstruir a página inicial de login do Instragam, no qual será abordado o conceito sobre CSS utilizando o Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibiliza todo o material necessário em seu GitHub para que você possa realizar o seu projeto.
